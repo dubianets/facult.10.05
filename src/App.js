@@ -4,10 +4,12 @@ import 'bootstrap/dist/css/bootstrap.css'
 
 const taskArray = [
     {id: Math.random(), name: 'First task', status: 'toDo'},
+    {id: Math.random(), name: 'Five task', status: 'toDo'},
     {id: Math.random(), name: 'Second task', status: 'progress'},
     {id: Math.random(), name: 'Second task', status: 'progress'},
     {id: Math.random(), name: 'Third task', status: 'review'},
     {id: Math.random(), name: 'Fourth task', status: 'done'},
+    {id: Math.random(), name: 'First task', status: 'done'},
     {id: Math.random(), name: 'Second task', status: 'todo'},
     {id: Math.random(), name: 'First task', status: 'done'},
     {id: Math.random(), name: 'Third task', status: 'done'}
